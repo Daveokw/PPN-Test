@@ -1,0 +1,27 @@
+.nav-item{
+    justify-content: space-around;
+}
+.tt{
+    background-image: url("imgs/rree.png");
+}
+.fr{
+    display: flex;
+    background-image: linear-gradient(130deg,rgb(18, 18, 18) 90%,darkblue);
+    justify-content: space-around;
+}
+.gh{
+    color: white;
+    border: 1px solid darkblue;
+    border-radius: 18px;
+    font-size: 15px;
+    padding: 10px;
+}
+.gu{
+    display: flex;
+    background-color: rgb(18, 18, 18);
+    justify-content: space-around;
+
+}
+.df{
+    color: white;
+}
