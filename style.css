@@ -15,13 +15,24 @@
     border-radius: 18px;
     font-size: 15px;
     padding: 10px;
+    text-align: center;
 }
 .gu{
     display: flex;
     background-color: rgb(18, 18, 18);
     justify-content: space-around;
+    padding-top: 50px;
 
 }
 .df{
     color: white;
+}
+.yu{
+    display: flex;
+    background-color: rgb(18, 18, 18);
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.io{
+    color: white;;
 }
